@@ -1,0 +1,44 @@
+.dentaku {
+  /* 電卓のサイズ */
+  width: 500px;
+  height: 400px;
+  /* インライン要素を中央に配置 */
+  text-align: center;
+  /* 余白調整 */
+  padding: 8px;
+  margin: 20px;
+ }
+
+
+ .dentaku_button {
+  /* ボタンのサイズ */
+ width: 150px;
+ height: 70px;
+ /* ボタンの文字サイズ */
+ font-size: x-large;
+ /* 数字部分の背景色 */
+ background-color: #dcdcdca4;
+ /* ボタンの形状 */
+ border-radius: 10px;
+
+ }
+
+ .button{
+   /* 数字ボタンのサイズ */
+   width: 100%;
+   height: 100%;
+   font-size: 30px;
+ }
+
+ #result{
+   text-align: right; /* 文字を右詰めに */
+   /* 見た目の詳細設定 */
+   background-color:black;
+   color:white;
+   padding-right:10px;
+   height: 50px;
+   font-size: 30px;
+  }
+
+
+ 
